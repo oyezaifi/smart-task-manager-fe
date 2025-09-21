@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_BASE || 'https://smarttaskmanagerbackendd.onrender.com';
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://smarttaskmanager-be-2.onrender.com';
 
 // Helper function to get user data from either localStorage or sessionStorage
 export function getUserData() {
